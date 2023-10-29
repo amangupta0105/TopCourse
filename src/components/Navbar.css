@@ -1,0 +1,13 @@
+/* Navbar.css */
+
+.navbar {
+    color: #fff; /* Text color for the navbar */
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .navbar-heading {
+    font-size: 30px;
+    margin: 20px 0;
+  }
+  

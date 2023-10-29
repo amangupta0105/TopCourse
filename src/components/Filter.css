@@ -1,0 +1,25 @@
+/* Filter.css */
+
+.button-container {
+    display: flex;
+    gap: 10px; /* Adjust the gap between buttons as needed */
+    justify-content: center; /* Horizontally center the buttons */
+}
+
+.titlebutton {
+    padding: 10px 20px;
+    background-color: #052950; /* Button background color */
+    color: #fff; /* Text color */
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    font-size: 1.25rem;
+}
+
+.titlebutton:hover {
+  background-color: #0056b3; /* Color on hover */
+  transform: scale(1.05); /* Scale the button slightly on hover */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Add a box shadow on hover */
+}
+
+/* You can add more styles or adjust these styles to match your design */

@@ -1,0 +1,6 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; /* To evenly distribute the cards */;
+    padding: 30px;
+  }
